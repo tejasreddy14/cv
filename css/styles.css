@@ -1,0 +1,42 @@
+body{
+  text-align: center;
+  background-color: #E8F9FD;
+  font-size: 20px;
+  }
+
+.education{
+  padding: 5px;
+}
+
+h1,h2{
+  color: #66bfbf;
+}
+
+hr{
+  padding: 10px 0px 10px;
+  text-align: center;
+  border-style: dotted none none;
+  width:10%;
+  border-color: gray;
+  border-width: 7px;
+  height: 0;
+}
+
+.my_name{
+  font-size: 50px;
+}
+
+.navbar{
+  padding: 20px;
+  float: right;
+}
+
+.skillset-icons{
+  border-radius: 100%;
+  width: 80%;
+}
+
+table{
+  position: relative;
+  margin: auto;
+}
